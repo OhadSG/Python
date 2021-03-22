@@ -1,0 +1,12 @@
+4 + 3 = 7
+3 - 5 = -2
+2 * 6 = 12
+Question (1.4 * 9.1) is not in the correct format
+4 / 3 = 1.3333333333333333
+Question (1/ 2) is not in the correct format
+Question (4+3) is not in the correct format
+Question (d x w) is not in the correct format
+Question (3 x 3) is not in the correct format
+Question (3 3 3) is not in the correct format
+Question (3-3) is not in the correct format
+Question (3/3) is not in the correct format
